@@ -5,9 +5,7 @@ This repository contains the code, data, and result files for the project " Enha
 The course aimed to teach students about the fundamental challenges of machine learning, such as model selection and model complexity, and the underlying mathematical relationships within and across machine learning algorithms. Students were also taught to characterize the strengths and weaknesses of various machine learning approaches and algorithms, design, implement, analyze, and apply different data mining, machine learning techniques, and deep learning techniques for big/business datasets in organizational contexts and for real-world applications. The course also covered the application areas, trends, and challenges in data mining and machine learning. The students were required to complete a project and report that reflected on their critical awareness of methodological choices and written skills to accepted academic standards.
 
 ## Authors
-Konstantin Kleffke
-Linda Schombach
-Mira Metzger
+Konstantin Kleffke, Linda Schombach and Mira Metzger
 
 ## Folder Structure
 
